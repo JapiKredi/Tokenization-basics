@@ -1,1 +1,3 @@
+ipykernel
 nltk
+svgling
